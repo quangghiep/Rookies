@@ -1,0 +1,16 @@
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.csproj.AssemblyReference.cache
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.AssemblyInfoInputs.cache
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.AssemblyInfo.cs
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.csproj.CoreCompileInputs.cache
+F:\CSharpAssignmentDay1\bin\Debug\net5.0\CSharpAssignmentDay1.exe
+F:\CSharpAssignmentDay1\bin\Debug\net5.0\CSharpAssignmentDay1.deps.json
+F:\CSharpAssignmentDay1\bin\Debug\net5.0\CSharpAssignmentDay1.runtimeconfig.json
+F:\CSharpAssignmentDay1\bin\Debug\net5.0\CSharpAssignmentDay1.runtimeconfig.dev.json
+F:\CSharpAssignmentDay1\bin\Debug\net5.0\CSharpAssignmentDay1.dll
+F:\CSharpAssignmentDay1\bin\Debug\net5.0\ref\CSharpAssignmentDay1.dll
+F:\CSharpAssignmentDay1\bin\Debug\net5.0\CSharpAssignmentDay1.pdb
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.dll
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\ref\CSharpAssignmentDay1.dll
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.pdb
+F:\CSharpAssignmentDay1\obj\Debug\net5.0\CSharpAssignmentDay1.genruntimeconfig.cache
